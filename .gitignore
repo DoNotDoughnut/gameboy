@@ -1,0 +1,6 @@
+/target
+
+# Gameboy rom and save files
+/*.gb*
+*.bin
+*.sav
